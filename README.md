@@ -6,6 +6,7 @@ I’m doing this to understand how things work under the hood.
 
 ### Includes:
 - Gradient Descent (batch + stochastic)
+- Perceptron Trick
 
 All code is self-contained, commented, and written to learn.
 
