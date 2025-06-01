@@ -1,8 +1,9 @@
-# 🤖 Algorithms from Scratch
+# Algorithms from Scratch
 
-This repo is me rebuilding core AI + ML algorithms from the ground up — no libraries, just NumPy (and sometimes pandas).
 
-I’m doing this to understand how things work under the hood.
+I absolutely love understanding how how things work the way they do and what makes them different!
+So, this repo is just me rebuilding core AI + ML algorithms from the ground up with no libraries, just NumPy (and sometimes pandas).
+I'd recommend using this as a study source. And I'll make sure to update it as soon as possible!
 
 ### Includes:
 - Gradient Descent (batch + stochastic)
