@@ -6,8 +6,9 @@ So, this repo is just me rebuilding core AI + ML algorithms from the ground up w
 I'd recommend using this as a study source. And I'll make sure to update it as soon as possible!
 
 ### Includes:
-- Gradient Descent (batch + stochastic)
-- Perceptron Trick
+- Optimisation algorithms (batch GD + stochastic GD)
+- Neural Nets (perceptron trick)
+- NLP (jaccard similarity, cbow)
 
 All code is self-contained, commented, and written to learn.
 
